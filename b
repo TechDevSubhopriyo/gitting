@@ -7,4 +7,6 @@ Feature 4
 Feature 5
 Feature 6
 Feature 7
+Feature 8
+Feature 9
 implementing some other feature
